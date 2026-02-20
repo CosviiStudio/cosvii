@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Network Access</title>
+<head
+<body>
+ <h2>Authenticate</h2>
+<input type="password" id="pass"
+placeholder="Access Key">
+ <button onclick="login()">Connect</button>
+<script src="scripts/auth.js"></script
+</body>
+</html>

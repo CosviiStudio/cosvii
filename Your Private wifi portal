@@ -1,0 +1,4 @@
+mkdir public private assets scripts styles
+touch index.html login.html private/dashboard.html
+touch scripts/auth.js scripts/config.js 
+touch styles/main.css
